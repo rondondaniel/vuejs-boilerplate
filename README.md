@@ -1,4 +1,4 @@
-# email-frontend
+# Vuejs Boilerplate
 
 ## Project setup
 ```
